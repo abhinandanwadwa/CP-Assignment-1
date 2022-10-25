@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 
 int sumOfDigitsOf(int n) {
     int sum = 0;
